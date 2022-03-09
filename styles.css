@@ -1,0 +1,230 @@
+/*  Name: Gregory Bellinger
+    Course:     235.01
+    Homework:   #1
+    Git-Hub:    https://github.com/greg-bellinger/Homework-1
+*/
+img.a {
+    width: 200px;
+    height: 150px;
+}
+img.b {
+    border-style:groove;
+    border-color: #ea0ee9;
+    margin-left: 20px;
+    border-width: 2px;
+}
+img.c {
+    width: 475px;
+    height: 300px;
+    border-style: groove;
+    border-color: #d5b7ad;
+    margin-top: 20px;
+    margin-right: 25px;
+}
+td.a {
+    color: #990477;
+    font-size: 23pt;
+    font-family: "Lucida Sans", 'Courier' ; 
+    font-style: italic ; 
+    text-shadow: -4px 5px 5px #8dafc5;
+    padding-left: 12%;
+
+}
+td.b {
+    background-color: rgb(40, 51, 107);
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+    text-align: center;
+    color: rgb(244, 238, 128);
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-family: Arial;
+}
+td.c {
+    background-color: rgb(125, 131, 165);
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+    text-align: center;
+    font-family: Arial;
+    color: white;
+}
+td.c2 {
+    background-color: rgb(125, 131, 165);
+    border-left: 3px solid black;
+    border-right: 2px solid black;
+    text-align: center;
+    font-family: Arial;
+    color: white;
+}
+td.d {
+    background-color: rgb(113, 119, 153);
+    text-align: center;
+}
+td.e {
+    background-color: rgb(234, 184, 195);
+    width: 400px;
+    padding-left: 20px;
+    padding-top: 10px;
+    margin: 0px;
+    padding: 0px;
+}
+td.f {
+    background: linear-gradient(rgb(240, 223, 179), #ffffff 10%);
+    width: 450px;
+    padding-left: 75px;
+    padding-top: 10px;
+    font-family: Arial;
+    font-weight: bold;
+    vertical-align: text-top;
+}
+td.g {
+    background-image: url(images/footer.jpg);
+    background-size: 1000px 128px;
+    height: 128px;
+    background-repeat: no-repeat;
+    margin: 0px;
+    padding: 0px;
+}
+td.h {
+    background: #ddddff;
+    border-radius: 25px;
+    height: 150px;
+    width: 200px;
+}
+table.a {
+    border-collapse: collapse;
+    table-layout: fixed;
+    width: 100%;
+}
+table.b {
+    border-collapse: collapse;
+}
+body.b {
+    padding: 0px;
+    margin: 0px;
+}
+div.a {
+    font-weight: lighter;
+    font-family:'Times New Roman', Times, serif;
+    padding-left: 20px;
+    padding-right: 12px;
+    padding-bottom: 10px;
+    line-height: 1.5;
+}
+div.b { 
+    border-style:dotted;
+    border-color: #a83232;
+    border-width: 2pt;
+    padding-top: 7px;
+    padding: 0px;
+}
+div.c {
+    padding-top: 10px;
+    text-decoration: overline;
+    text-decoration-thickness: 2pt;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 12pt;
+    padding-left: 20px;
+}
+div.d {
+    font-weight: 500;
+    padding-top: 20px;
+    padding-left: 20px;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    font-size: 15pt;
+    letter-spacing: .15em;
+
+}
+div.e {
+    padding-left: 20px;
+    vertical-align: top;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #c5c735;
+    font-size: 10pt;
+}
+div.f {
+    padding-top: 20px;
+    font-weight: lighter;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.5;
+}
+div.g {
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    font-weight: 500;
+    letter-spacing: .15em;
+    padding-top: 10px;
+    font-size: 15pt;
+}
+div.h {
+    padding-top: 15px;
+    text-decoration: overline;
+    text-decoration-thickness: 2pt;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    font-size: 13pt;
+    font-weight: bold;
+}
+div.i {
+    font-weight: lighter;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.5;
+    padding-bottom: 20px;
+}
+div.j {
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    text-decoration: overline;
+    text-decoration-thickness: 2pt;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: text-top;
+}
+div.k {
+    background: linear-gradient(rgb(193, 119, 178), rgb(234, 184, 195));
+}
+div.l {
+    padding-top: 20px;
+    padding-left: 15px;
+    font-weight: lighter;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.5;
+}
+span.a {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+span.b {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: #3a33d8;
+}
+span.c {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: #7a594a;
+}
+span.d {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: #bcc1d7;
+}
+span.e {
+    color: #808080;
+}
+span.f {
+    color: #285b9d;
+    text-decoration: underline;
+}
+p.a {
+    color: #c5c735;
+    font-size: 9pt;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    line-height: 1.5;
+}
+u.a {
+    color: #bcc1d7;
+}
+
